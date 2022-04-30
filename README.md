@@ -6,7 +6,7 @@ The original intention of Conditional Value at Risk is to decentralize and super
 
 ## Method
 
-- It is hard to write fomula here. For more details, please refer to my reference.<sup>[1]</sup>
+- It is hard to write fomula here. For more details, please refer to the reference.<sup>[1]</sup>
 - Since we don't have enough historical data, we need to use Monte Carlo simulation to generate enough historical data and CVaR
 - How to simulate? 
 
