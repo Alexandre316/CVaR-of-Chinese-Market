@@ -14,7 +14,7 @@ The original intention of Conditional Value at Risk is to decentralize and super
 
 ## Results
 
-As we can see,  declines of CVaR almost coincide with drawdowns, even 1~7 days in advance.
+As we can see,  declines of CVaR almost coincide with drawdowns, even 1~7 days in advance.  
 ![a](https://github.com/Alexandre316/CVaR-of-Chinese-Market/blob/master/Output/WEEKLY_CVaR.png)
 
 ## References
